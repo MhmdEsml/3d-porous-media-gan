@@ -83,13 +83,3 @@ python scripts/inference.py \
 MIT License.
 
 ---
-
-## ⭐ Contributions
-
-PRs and issues are welcome!
-
----
-
-## 🤝 Acknowledgements
-
-Built with JAX/Flax and datasets from digital rock physics research.
