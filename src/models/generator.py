@@ -105,7 +105,7 @@ class UNetUpBlock(nn.Module):
 
 class UNetGenerator(nn.Module):
     features: Sequence[int] = (64, 128, 256, 512)
-    kernel_sizes: Sequence[Tuple[int, int, int]] = ((3, 3, 3), (3, 3, 3), (3, 3, 3), (3, 3, ))
+    kernel_sizes: Sequence[Tuple[int, int, int]] = ((3, 3, 3), (3, 3, 3), (3, 3, 3), (3, 3, 3))
     use_dilation: Sequence[bool] = (False, False, False, False)
     use_attention: Sequence[bool] = (False, False, False, False)
 
