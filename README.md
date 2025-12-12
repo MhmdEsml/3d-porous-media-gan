@@ -1,4 +1,4 @@
-# 3D Conditional Porous Media GAN
+# 3D Conditional Porous Media GAN on Multiple Devices (GPUs/TPUs)
 
 ### Conditional Generation of Digital Rock Microstructures with Porosity Control
 
