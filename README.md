@@ -1,4 +1,4 @@
-# 🏗️ 3D Porous Media GAN
+# 3D Conditional Porous Media GAN
 
 ### Conditional Generation of Digital Rock Microstructures with Porosity Control
 
@@ -78,6 +78,16 @@ python scripts/inference.py \
   --num_samples 5 \
   --output generated_samples.raw
 ```
+
+---
+
+## 🎯 Pre-trained Models
+
+| Dataset | Porosity Range | Download |
+|---------|---------------|----------|
+| Berea Sandstone | 0.15 - 0.35 | [🤗 Hugging Face](https://huggingface.co/MohammadEsmaeili/porous-media-gan-3d/tree/main/checkpoints_berea) |
+
+---
 
 ---
 
