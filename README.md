@@ -6,7 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![JAX](https://img.shields.io/badge/JAX-0.5.2%2B-orange)
-[![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/MhmdEsml)
 
 A high-performance **3D Generative Adversarial Network** for synthesizing realistic porous media microstructures with **controllable porosity**, powered by **JAX/Flax** for fast GPU/TPU execution.
 
