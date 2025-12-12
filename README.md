@@ -74,6 +74,21 @@ python scripts/inference.py \
   --output generated_samples.raw
 ```
 
+## Available Datasets
+The following datasets from the Digital Rocks Portal are supported:
+
+- Berea
+- BanderaBrown
+- BanderaGray
+- Bentheimer
+- BSG (Berea Sister Gray)
+- BUG (Berea Upper Gray)
+- BuffBerea
+- CastleGate
+- Kirby
+- Leopard
+- Parker
+
 ---
 
 ## 🎯 Pre-trained Models
