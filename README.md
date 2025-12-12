@@ -18,7 +18,6 @@ A high-performance **3D Generative Adversarial Network** for synthesizing realis
 - 🧠 **Advanced 3D GAN Architecture** (U-Net + residuals + attention)
 - 📊 **Supports 11 Real Porous Media Datasets**
 - 🤗 **Hugging Face Model Hub Integration**
-- 💾 **Scientific Output** (`.raw` volumes for OpenPNM, PoreSpy, GeoDict, Avizo)
 
 ---
 
