@@ -27,7 +27,7 @@ class Config:
     
     log_every = 1_000
     save_every = 50_000
-    save_dir = '/kaggle/working/checkpoints'
+    save_dir = '/kaggle/working/checkpoints' # important note: the path should be absolute
     seed = 42
     
     viz_every = 5_000
