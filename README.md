@@ -65,6 +65,11 @@ Custom training:
 python scripts/train.py --dataset Bentheimer --num_steps 50000
 ```
 
+Push to Hugging Face
+```bash
+python scripts/push_to_hf.py --model_dir checkpoints/ --repo_id MhmdEsml/porous-media-gan-3d --token YOUR_TOKEN
+```
+
 ### 🎛️ Inference
 ```bash
 python scripts/inference.py \
