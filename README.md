@@ -50,11 +50,6 @@ cd 3d-porous-media-gan
 pip install -e .
 ```
 
-### 📥 Download Dataset
-```bash
-python -c "from src.data.downloader import download_dataset; download_dataset(['Berea'])"
-```
-
 ### 🏋️ Training
 ```bash
 python scripts/train.py --dataset Berea
