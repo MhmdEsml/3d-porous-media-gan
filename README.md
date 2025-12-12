@@ -85,7 +85,7 @@ python scripts/inference.py \
 
 | Dataset | Porosity Range | Download |
 |---------|---------------|----------|
-| Berea Sandstone | 0.15 - 0.35 | [🤗 Hugging Face](https://huggingface.co/MohammadEsmaeili/porous-media-gan-3d/tree/main/checkpoints_berea) |
+| Berea Sandstone | 0.10 - 0.35 | [🤗 Hugging Face](https://huggingface.co/MohammadEsmaeili/porous-media-gan-3d/tree/main/checkpoints_berea) |
 
 ---
 
